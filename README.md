@@ -8,7 +8,7 @@ I’m an experienced engineer with a strong interest in machine learning and I�
 * 🖥️  See my portfolio at [My Data Science Portfolio](http://www.datascienceportfol.io/heephuong)
 * 💡  I write sometimes on [Medium](https://medium.com/@heephuong)
 * ✉️  You can contact me at [phuongthanhpham0410@gmail.com](mailto:phuongthanhpham0410@gmail.com)
-* 🧠  I love learning and am learning how to learn effectively. 
+* 🧠  I'm currently researching and building ML system to influence how we can learn and memorize effectively.
 * 👥  I'm looking to collaborate on recommendation systems and causal inference method such as A/B testing. Those are the topics that I really want to gain more hands-on experience.
 
 <p align="left">
