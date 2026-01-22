@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cindy
 ==============================================================================================================================
 
-I’m an experienced engineer with a strong interest in machine learning and I believe there is so much to this world that we can build with ML and AI. Very glad to be born in this era and let's build together!
+I’m an experienced engineer with a strong interest in machine learning. I have experience in Computer Vision, LLM, and Causal Inference. I believe there is so much to this world that we can build with ML and AI. Very glad to be born in this era and let's build together!
 
 * 🌍  I'm based in Tampa
 * 🖥️  See my portfolio at [My Data Science Portfolio](http://www.datascienceportfol.io/heephuong)
